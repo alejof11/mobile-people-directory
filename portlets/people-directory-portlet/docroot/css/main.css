@@ -36,7 +36,8 @@
 }
 
 input.simple-search-keywords {
-    width: 100%;
+    width: 100% !important;
+    min-height: 30px;
     box-sizing: border-box;
 }
 
